@@ -1,0 +1,4 @@
+embeddings {
+  tensor_name: "embedding_2d"
+  metadata_path: "/home/eduard.vlasov@Digital-Grenoble.local/Documents/ML4_recommender_systems/data/metadata_32d.tsv"
+}

@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/eduard.vlasov@Digital-Grenoble.local/Documents/ML4_recommender_systems/data/model_3d.ckpt"
+all_model_checkpoint_paths: "/home/eduard.vlasov@Digital-Grenoble.local/Documents/ML4_recommender_systems/data/model_3d.ckpt"
